@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/iciitrw62dc3r6q6?svg=true)](https://ci.appveyor.com/project/DurckinaMilana/dom)
